@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+:heart:
+1. Data Science
+2. Coffee
+3. Music
